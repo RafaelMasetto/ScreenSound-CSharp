@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\bin\Debug\net8.0\DesafioSomaItemsLista.exe
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\bin\Debug\net8.0\DesafioSomaItemsLista.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\bin\Debug\net8.0\DesafioSomaItemsLista.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\bin\Debug\net8.0\DesafioSomaItemsLista.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\bin\Debug\net8.0\DesafioSomaItemsLista.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\refint\DesafioSomaItemsLista.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\DesafioSomaItemsLista.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioSomaItemsLista\DesafioSomaItemsLista\obj\Debug\net8.0\ref\DesafioSomaItemsLista.dll
