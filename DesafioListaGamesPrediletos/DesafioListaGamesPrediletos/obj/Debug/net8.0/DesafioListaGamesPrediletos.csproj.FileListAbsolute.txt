@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\bin\Debug\net8.0\DesafioListaGamesPrediletos.exe
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\bin\Debug\net8.0\DesafioListaGamesPrediletos.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\bin\Debug\net8.0\DesafioListaGamesPrediletos.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\bin\Debug\net8.0\DesafioListaGamesPrediletos.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\bin\Debug\net8.0\DesafioListaGamesPrediletos.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\refint\DesafioListaGamesPrediletos.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\DesafioListaGamesPrediletos.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioListaGamesPrediletos\DesafioListaGamesPrediletos\obj\Debug\net8.0\ref\DesafioListaGamesPrediletos.dll
