@@ -12,3 +12,17 @@ C:\Users\383.666.558-14\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0
 C:\Users\383.666.558-14\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
 C:\Users\383.666.558-14\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
 C:\Users\383.666.558-14\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.exe
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.deps.json
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.runtimeconfig.json
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.dll
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\bin\Debug\net8.0\ScreenSound.pdb
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.AssemblyInfo.cs
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.dll
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\refint\ScreenSound.dll
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.pdb
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ScreenSound.genruntimeconfig.cache
+C:\Users\Mazetto\Documents\RM\C#\ScreenSound\ScreenSound\obj\Debug\net8.0\ref\ScreenSound.dll
