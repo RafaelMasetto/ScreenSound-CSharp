@@ -52,12 +52,17 @@ void RegistrarGame()
 void MostrarLista()
 {
     Console.Clear();
+    Console.WriteLine("-==-==-==-==-==-==-==-==-==-==-");
+    Console.WriteLine("Sua Lista de Games Preferidos");
+    Console.WriteLine("-==-==-==-==-==-==-==-==-==-==-\n");
     foreach (string game in listaGamesPreferidos)
     {
-        Console.WriteLine($"{game}");
+        Console.WriteLine($"Game: {game}");
     }
-    MenuOpcoes();
+    Console.WriteLine("Pressione uma tecla para retornar ao menu de opções.");
+    Console.ReadKey();
     Console.Clear();
+    MenuOpcoes();
 }
 
 
