@@ -15,20 +15,17 @@ void AdicionarNumerosInteiros()
 
 void ExibirListaCompleta()
 {
+    Console.WriteLine("Exibindo lista completa de números registrados.\n");
     foreach (int Numero in ListaNumerosInteiros) 
     {
         Console.WriteLine($"{Numero}"); 
     }
+    Console.WriteLine("Pressione uma tecla para voltar ao menu de opções.");
+    Console.ReadKey();
+    Console.Clear();
     ExibirMenuOpcoes();
 }
 
-int SomaLista()
-{
-    int resultadoSoma = ListaNumerosInteiros.Sum();
-    return resultadoSoma;
-}
-
-int soma = SomaLista();
 
 void ExibirMenuOpcoes()
 {
@@ -48,8 +45,8 @@ void ExibirMenuOpcoes()
             ExibirListaCompleta();
             break;
         case 3:
-            SomaLista();
-            Console.WriteLine($"O resultado é {soma}.");
+            int resultadoSoma = ListaNumerosInteiros.Sum();
+            Console.WriteLine($"O resultado é {resultadoSoma}.");
             break;
         case 4:
             Console.WriteLine("Até a próxima!");
