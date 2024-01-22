@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\bin\Debug\net8.0\DesafioDicionarioMediaAluno.exe
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\bin\Debug\net8.0\DesafioDicionarioMediaAluno.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\bin\Debug\net8.0\DesafioDicionarioMediaAluno.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\bin\Debug\net8.0\DesafioDicionarioMediaAluno.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\bin\Debug\net8.0\DesafioDicionarioMediaAluno.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\refint\DesafioDicionarioMediaAluno.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\DesafioDicionarioMediaAluno.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioDicionarioMediaAluno\DesafioDicionarioMediaAluno\obj\Debug\net8.0\ref\DesafioDicionarioMediaAluno.dll
