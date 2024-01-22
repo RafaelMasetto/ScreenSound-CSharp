@@ -1,0 +1,14 @@
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\bin\Debug\net8.0\DesafioEstoqueProdutoLoja.exe
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\bin\Debug\net8.0\DesafioEstoqueProdutoLoja.deps.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\bin\Debug\net8.0\DesafioEstoqueProdutoLoja.runtimeconfig.json
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\bin\Debug\net8.0\DesafioEstoqueProdutoLoja.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\bin\Debug\net8.0\DesafioEstoqueProdutoLoja.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.AssemblyInfoInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.AssemblyInfo.cs
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.csproj.CoreCompileInputs.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\refint\DesafioEstoqueProdutoLoja.dll
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.pdb
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\DesafioEstoqueProdutoLoja.genruntimeconfig.cache
+C:\Users\383.666.558-14\Documents\RM\C#\DesafioEstoqueProdutoLoja\DesafioEstoqueProdutoLoja\obj\Debug\net8.0\ref\DesafioEstoqueProdutoLoja.dll
